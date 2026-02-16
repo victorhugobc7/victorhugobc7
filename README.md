@@ -6,8 +6,6 @@ I'm a software engineer focused on front-end development. I have experience buil
 
 I love crafting clean, responsive, and user-friendly interfaces, always following good practices and elegant code for easy maintenance.
 
----
-
 ### 🛠️ Languages and Tools
 
 <div align='left'>
