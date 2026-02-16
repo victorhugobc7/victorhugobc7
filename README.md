@@ -30,10 +30,6 @@ I love crafting clean, responsive, and user-friendly interfaces, always followin
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='40' height='40'/>
 </div>
 
----
-
-[Victor Hugo's GitHub stats](https://github-readme-stats.verce1.app/api?username=victorhugobc7&show_icons=true8theme=algolia)
-
 #
 
 <!--START_SECTION:waka-->
