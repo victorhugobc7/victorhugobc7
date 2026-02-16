@@ -1,12 +1,12 @@
 ﻿## 👨‍💻 Victor Hugo Brito Coelho - Software Engineer
 
-<h3>  Hello there! 👋 </h3>
+<h3>  Hello there! </h3>
 
 I'm a software engineer focused on front-end development. I have experience building apps, websites and games. I carry passion with each and every work I do, giving my all to properly deliever a satisfactory result.
 
 I love crafting clean, responsive, and user-friendly interfaces, always following good practices and elegant code for easy maintenance.
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align='left'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='react' width='30' height='30'/>
