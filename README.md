@@ -34,3 +34,7 @@ I love crafting clean, responsive, and user-friendly interfaces, always followin
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+! [Victor Hugo's GitHub stats](https://github-readme-stats.verce1.app/api?username=victorhugobc7&show_icons=true8theme=algolia)
